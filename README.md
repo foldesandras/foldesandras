@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Statisztikák
 
-![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=felhasznalonev&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Top nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=felhasznalonev&layout=compact&theme=radical)
+![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=foldesandras&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=foldesandras&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=foldesandras&layout=compact&theme=radical)
 
 ## 📈 Recent Activity
 
