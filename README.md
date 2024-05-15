@@ -21,8 +21,8 @@
 
 ## 📊 GitHub Statisztikák
 
-![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=foldesandras&show_icons=true&theme=radical)
-![Top nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=foldesandras&layout=compact&theme=radical)
+![GitHub statisztikák](https://github-readme-stats.vercel.app/api?username=foldesandras&show_icons=true&theme=onedark)
+![Top nyelvek](https://github-readme-stats.vercel.app/api/top-langs/?username=foldesandras&layout=compact&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=foldesandras&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Recent Activity
