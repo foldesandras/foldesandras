@@ -31,16 +31,10 @@
 
 ## 🌐 Social Media
 
-- LinkedIn: [LinkedIn profilod](https://www.linkedin.com/in/felhasznalonev/)
-- Twitter: [Twitter profilod](https://twitter.com/felhasznalonev)
-- Blog: [Személyes blogod](https://blogod.com)
-
-
 
 ## 💬 Nyelvek
 
 - Magyar (Anyanyelv)
 - Angol (Folyékony)
-- [Egyéb nyelvek]
 
 ---
