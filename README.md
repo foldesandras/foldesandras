@@ -27,9 +27,7 @@
 
 ## 📈 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foldesandras&theme=react-dark&custom_title=%20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌐 Social Media
 
 
